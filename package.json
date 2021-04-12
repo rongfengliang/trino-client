@@ -9,7 +9,7 @@
   "public": true,
   "repository": {
     "type": "git",
-    "url": "git://github.com/rongfengliang/presto-client-node.git"
+    "url": "https://github.com/rongfengliang/trino-client"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
