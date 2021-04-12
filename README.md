@@ -1,9 +1,11 @@
 # presto-client-node
 
-Distributed query engine "Presto" 's client library for node.js.
+> add Trino support
+
+Distributed query engine "Trino" 's client library for node.js.
 
 ```js
-var presto = require('presto-client');
+var presto = require('@dalongrong/trino-client');
 var client = new presto.Client({user: 'myname'});
 
 client.execute({
